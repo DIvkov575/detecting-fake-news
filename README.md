@@ -10,5 +10,4 @@ explore_data.ipynb - matplotlib practice and data observation
 
 
 
-Note ! Data outdated !
-This project is obsolute due to large recent evets
+# Note ! Data outdated ! - This project is obsolute due to recent and signifigante news events
